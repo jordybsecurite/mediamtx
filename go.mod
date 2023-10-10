@@ -73,3 +73,4 @@ require (
 )
 
 replace code.cloudfoundry.org/bytefmt => github.com/cloudfoundry/bytefmt v0.0.0-20211005130812-5bb3c17173e5
+replace github.com/bluenviron/gohlslib v1.0.2 => github.com/Jordy84/gohlslib b2fdf4cc56208a01fd2af11669c0f39d2d36e0bf
